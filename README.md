@@ -30,4 +30,4 @@ A **fun and interactive Quiz Game** built with **Python OOP** and **Tkinter GUI*
 1. Make sure Python 3 is installed
 2. Clone this repo:
 ```bash
-git clone https://github.com/YourUsername/OOP-Quiz-Game.git
+git clone https://github.com/BappaSahaShuvo /OOP-Quiz-Game.git
