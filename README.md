@@ -1,4 +1,4 @@
-![banner](assets/banner (2).png)
+![banner](assets/banner.png)
 
 # OOP Quiz Game
 
